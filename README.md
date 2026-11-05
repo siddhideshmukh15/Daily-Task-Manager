@@ -28,5 +28,4 @@ A simple Python-based application to manage daily tasks and keep track of their 
 - Add task due dates
 - Search tasks by name
 
-## Author
-Siddhi Deshmukh
+
