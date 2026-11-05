@@ -29,4 +29,4 @@ A simple Python-based application to manage daily tasks and keep track of their 
 - Search tasks by name
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
