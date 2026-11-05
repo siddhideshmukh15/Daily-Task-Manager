@@ -26,6 +26,9 @@ A simple Python-based application to manage daily tasks and keep track of their 
 ## Future Improvements
 - Save tasks permanently in a file
 - Add task due dates
-- Search tasks by name
+- Search tasks by
+
+  ##Author
+  Siddhi Deshmukh 
 
 
