@@ -28,4 +28,4 @@ and tracking tasks.
 - Add due dates
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
