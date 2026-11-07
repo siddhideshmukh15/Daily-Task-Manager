@@ -20,12 +20,12 @@ A simple Python-based Daily Task Manager that helps users organize and manage th
 - Conditional Statements (if-elif-else)
 - User Input and Output
 - String Methods
-- Basic Python Logic
+- Basic Python Logic.
 
 ##Technologies Used
 
 - Python 3
-- VS Code
+- VS Code.
 
 ##Author
 
