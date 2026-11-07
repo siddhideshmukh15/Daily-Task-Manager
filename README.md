@@ -1,34 +1,36 @@
+##Daily Task Manager
 
-# Daily Task Manager
+A simple Python-based Daily Task Manager that helps users organize and manage their daily activities through a menu-driven program.
 
-## Description
-A simple Python-based application to manage daily tasks and keep track of their completion status.
+##Features
 
-## Features
-- Add new tasks
-- View all tasks
-- Set task priority (High, Medium, Low)
-- Mark tasks as completed
-- Delete tasks
-- Handle invalid inputs
+- Add Task: Add new tasks to your task list.
+- View Tasks: Display all added tasks.
+- Complete Task: Mark tasks as completed.
+- Delete Task: Remove tasks from the list.
+- Search Task: Search for a particular task by name.
+- Exit: Close the program.
 
-## Technologies Used
+##Concepts Learned
+
+- Python Lists
+- Dictionaries
+- While Loops
+- For Loops
+- Conditional Statements (if-elif-else)
+- User Input and Output
+- String Methods
+- Basic Python Logic
+
+##Technologies Used
+
 - Python 3
+- VS Code
 
-## Concepts Learned
-- Lists and dictionaries
-- While loops
-- Conditional statements
-- For loops and enumerate()
-- Exception handling (try-except)
-- List methods (append and pop)
+##Author
 
-## Future Improvements
-- Save tasks permanently in a file
-- Add task due dates
-- Search tasks by
+Siddhi Deshmukh
 
-  ##Author
-  **Siddhi Deshmukh**
+
 
 
