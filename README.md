@@ -29,7 +29,7 @@ A simple Python-based Daily Task Manager that helps users organize and manage th
 
 ##Author
 
-Siddhi Deshmukh
+**Siddhi Deshmukh**
 
 
 
